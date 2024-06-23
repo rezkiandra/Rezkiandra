@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Rezkiandra
-- 👀 I’m interested in Web Developer especially, Frontend Developer
+- 👀 I’m interested in Web Developer especially, Fullstack Developer
+- 🌱 Have 2+ years of experience using Laravel Framework
 - 🌱 I’m currently learning Javascript to use Framework React
 - 💞️ I’m looking to collaborate on your project
 - 📫 How to reach me ... ? Social Media Account : null
